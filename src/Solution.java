@@ -2,6 +2,8 @@
  * Created by Pranith on 12/28/16.
  */
 public class Solution {
+
+    /** Palindrome check*/
     public int isPalindrome(String a) {
         if(isaPalindrome(a)) return 1;
 
